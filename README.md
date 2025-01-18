@@ -1,3 +1,5 @@
+# panduan lengkap untuk membuat token ERC-20
+
 Berikut adalah panduan lengkap untuk membuat token ERC-20 dengan fitur-fitur lengkap, termasuk deploy token, menambahkan liquidity di DEX (Uniswap/PancakeSwap), serta memberikan kemampuan bagi orang lain untuk membeli token Anda. Panduan ini akan mencakup seluruh proses dari awal hingga akhir, termasuk kontrak pintar untuk token, deploy, dan penambahan liquidity.
 
 ### **Langkah 1: Persiapan**
